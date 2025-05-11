@@ -14,11 +14,11 @@ A hands-on SQL project focused on exploring, cleaning, and analyzing retail sale
 
 ## Project Structure
 ### 1. **Database Setup**
-  - Database Creation: Create the SQL_project_p1 database.
+  - Database Creation: Create the SQL_project_p2 database.
   - Table Creation: Build the retail_sales table with fields for transactions, customer details, and sales metrics.
 
 ```sql
-CREATE DATABASE p1_retail_db;
+CREATE DATABASE SQL_project_p2;
 
 CREATE TABLE retail_sales
 (
