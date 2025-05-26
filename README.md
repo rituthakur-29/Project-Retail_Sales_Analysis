@@ -198,5 +198,5 @@ This project blends database creation, data cleaning, EDA, and SQL-driven busine
 ## Author - Rituthakur-29
 Part of my growing portfolio, this project showcases the SQL skills needed for data analyst positions. I'd love to hear your feedback or discuss any inquiries - feel free to reach out!
 
-- Linkedln: [**Connect with me professionally**](www.linkedin.com/in/ritut)
+- Linkedln: [**Connect with me professionally**](https://www.linkedin.com/in/ritut/)
 Thank you for your support, and I look forward to connecting with you!
